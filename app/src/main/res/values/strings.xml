@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Legend of Pharaoh</string>
+
+    <string name="correct">
+        <b>CORRECTNESS IS</b>
+        \n
+        <b>%1$d</b>
+        OUT OF 8
+    </string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">This is Kleopatra?</string>
+    <string name="b">This is number 11?</string>
+    <string name="c">This is Anubis?</string>>
+    <string name="d">This is Pharaoh?</string>
+    <string name="e">This is Ra?</string>
+    <string name="f">This is Sphinx?</string>
+    <string name="g">This is J?</string>
+    <string name="h">This is K?</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+    <string name="textview">Legend of Pharaoh</string>
+
+</resources>
